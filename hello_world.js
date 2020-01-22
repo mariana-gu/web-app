@@ -1,7 +1,7 @@
 "use strict";
 
 function greet() {
-    document.getElementById('result').innerHTML = 'Hello World';
+    document.getElementById('result').innerHTML = '....Hola Universo....';
     return false;
 }
 
